@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as e}from"./chunks/framework.DQKGPw-c.js";const u=JSON.parse('{"title":"Getting Started","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},t=e("",17),l=[t];function p(h,o,d,r,c,k){return a(),i("div",null,l)}const E=s(n,[["render",p]]);export{u as __pageData,E as default};
